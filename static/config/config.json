@@ -1,10 +1,10 @@
 {
 
-    "enable_resume": true,
+    "enable_resume": flase,
     
-    "me_animation": true,
-    "me_img": "avatar.jpg",
-    "me_text": "Hello",
+    "me_animation": flase,
+    "me_img": "logo.jpg",
+    "me_text": "Hello World!",
 
     "nav_text": ["Me", "Resume", "Blog"] 
 
