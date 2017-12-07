@@ -1,8 +1,8 @@
 {
 
-    "enable_resume": flase,
+    "enable_resume": false,
     
-    "me_animation": flase,
+    "me_animation": false,
     "me_img": "logo.jpg",
     "me_text": "Hello World!",
 
