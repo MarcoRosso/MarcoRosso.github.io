@@ -26,13 +26,11 @@ And it takes a day to make you yawn brother <br/>
 And it takes some old to make you young <br/>
 It takes some cold to know the sun <br/>
 It takes the one to have the other<br/>
-　　 
 And it takes no time to fall in love <br/>
 But it takes you years to know what love is <br/>
 It takes some fears to make you trust <br/>
 It takes those tears to make it rust <br/>
 It takes the dust to have it polished <br/>
-　　 
 It takes some silence to make sound <br/>
 It takes a loss before you found it <br/>
 And it takes a road to go nowhere <br/>
