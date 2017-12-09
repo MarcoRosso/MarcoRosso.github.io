@@ -37,17 +37,17 @@
 #### Data Mining of Outdoors and Social Routines of People with Parkinson's Disease
 >- Dec. 2015 - Sept. 2016
 >- Master Dissertation
->- Analyzed the geographic information and activities obtained from the mobile phone carried by Parkinson's patients by using various data processing methods, constructed the activity patterns of the patients through the machine learning method, obtained the activity status of the patients and do the correlation study with the objective Parkinson's scales.
+>- Analyzed the geographic information and activities obtained from the mobile phone carried by Parkinson's patients by using various data processing methods, constructed the activity patterns of the patients through the machine learning method, obtained the activity status of the patients and applied the correlation study with the objective Parkinson's scales.
 
 #### ECG Monitor and Patient Doctor Management System based on Android
 >- Mar. 2015 - July 2015
 >- Bachelor Graduation
->- Utilized the Bluetooth to receive the data form ECG monitor on patients’ bodies and draw ECG graph and calculate the heart rate of patient to help doctors to diagnose. And implmented Baas service to store patient’s ECG data and transfer the ECG data instantly from patient to doctor, and doctor can manage basic information of patients.
+>- Utilized the Bluetooth to receive the data form ECG monitor on patients’ bodies, drew ECG graph and calculated the heart rate of patient to help doctors to diagnose. Also implmented Baas service to store patient’s ECG data and transferred the ECG data instantly from patient to doctor, so doctor can manage basic information of patients.
 
 ####Emergency Alert System based on Android
 >- May 2014 - May 2015
 >- UESTC’s Innovation Fund Project
->- Implmented the basic sensor on the Android cellphone to detect the environment around the user such as temperature, altitude and acceleration. And calculated the data from sensor to determine if the user meet any emergency situation such as fire, drop or crash and send the user’s location by message immediately.
+>- Implmented the basic sensor on the Android cellphone to detect the environment around the user such as temperature, altitude and acceleration. Also calculated the data from sensor to determine if the user met any emergency situation such as fire, drop or crash then send the user’s location by message immediately.
 
 
 
