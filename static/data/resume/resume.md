@@ -9,3 +9,9 @@
 >- Meber of Interaction Analysis and Modelling (IAM) Lab
 >- Supervised by Dr. Simon Haper and Dr. Bijan Parsia
 >- Research title "Smart Measures of Social Isolation of Parkinson’s Disease"
+
+>####University of Manchester (Sept.2015- Nov.2016)
+>#####Master of Science in Advanced Computer Science
+>- Specialized in Artificial Intelligence
+>- Courses includes Machine Learning, Big Data, Text Mining, Computer Vision and Software Engineering
+>- With Merit
