@@ -12,11 +12,5 @@
             "type" : "Random",
             "date": "2015-10-5"
         }
-        {
-            "filename": "class/video_test.md",
-            "title": "Video Test",
-            "type" : "Video",
-            "date": "2017-8-6"
-        }
     ]
 }
