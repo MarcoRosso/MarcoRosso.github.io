@@ -1,10 +1,10 @@
 {
     "articles": [
         {
-            "filename": "class/first article.md",
-            "title": "First article",
-            "type" : "Type 1",
-            "date": "1970-01-01"
+            "filename": "class/toy_story.md",
+            "title": "十五年 幕落",
+            "type" : "Random",
+            "date": "2010-06-23"
         },
         {
             "filename": "class/second article.md",
