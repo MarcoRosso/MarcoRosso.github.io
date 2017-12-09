@@ -1,6 +1,7 @@
 # Heng Zhang
->[![](youtube-icon.png)](https://www.youtube.com/channel/UC4YxkkDp1m8zmOCpJDHx6tg)
 >[Research Profile](https://www.research.manchester.ac.uk/portal/en/researchers/heng-zhang(c19de749-ca1d-4318-bca5-ad083a42daf8).html)<br/>
+>[Youtube](https://www.youtube.com/channel/UC4YxkkDp1m8zmOCpJDHx6tg)
+>[Flickr](https://www.flickr.com/people/procorosso/)
 >heng.zhang@postgrad.manchester.ac.uk
 
 ## Research Abstract
