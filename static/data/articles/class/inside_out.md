@@ -19,21 +19,22 @@ Sadness也因为Reily的人格崩塌而自责地哭成了一朵乌云，Joy利�
 影片的最后没有彩蛋，却是这样一句话“this film is dedicated to our kids. please don't grow up. ever.” 可是能对片中故事感同身受的我们都已经过了kids的时代，真正的kids们又有多少能懂得成长这个悲欣交加的过程呢，Pixar的动画从来都不是给真正的孩子们看的，没有多少刻意的卖萌搞笑，反而打开了每个人记忆中尘封已久的那段从童年到青春期转变的时光，用彻底忘记来告别，在废墟上重建新城，童年的消逝宣告着，快乐从此不再毫无杂质，交织的情绪让记忆开始五味杂陈让快乐变的立体多样。然而这正是人生。懂得悲伤，方能体验欢乐的可贵，背负过沉重，才能拥有真正的轻松。 
 “你渐渐长大，已不再需要一个想象中的朋友，他没有时间细细思量，只是收起所有滑稽模样。你渐渐长大，总有一日 BingBong会尘封在回忆的一角，你或许会在聊天时被问起是否有个想像中的朋友，笑笑说别说啦so embarrassing，或许不会，但你不再需要他，不再需要他陪你成长。他侧身看向自己渐渐消散的左臂，对Joy露出笑脸，说我们再试一次，而后中途下车，选择了被遗忘，选择了死亡。没有陪你走到最后，不能看着你长大，真是遗憾极了。他看着Joy高唱着你们的歌曲越飞越高，从此你彩虹色的幻想中再也没有一头粉色的大象。有什么办法呢，Joy对你更为重要。胜过陪你度过漫长时光的粉色大象，她会伴随你长大，伴随你一生。 ”So long, Bing Bong.
 
-最后想起 Jason Mraz 的那首Life is wonderful 的歌词： <br/>
-    It takes a night to make it dawn <br/>
-　　And it takes a day to make you yawn brother <br/>
-　　And it takes some old to make you young <br/>
-　　It takes some cold to know the sun <br/>
-　　It takes the one to have the other <br/>
+最后想起 Jason Mraz 的那首Life is wonderful 的歌词：
+
+It takes a night to make it dawn <br/>
+And it takes a day to make you yawn brother <br/>
+And it takes some old to make you young <br/>
+It takes some cold to know the sun <br/>
+It takes the one to have the other
 　　 
-　　And it takes no time to fall in love <br/>
-　　But it takes you years to know what love is <br/>
-　　It takes some fears to make you trust <br/>
-　　It takes those tears to make it rust <br/>
-　　It takes the dust to have it polished <br/>
+And it takes no time to fall in love <br/>
+But it takes you years to know what love is <br/>
+It takes some fears to make you trust <br/>
+It takes those tears to make it rust <br/>
+It takes the dust to have it polished 
 　　 
-　　It takes some silence to make sound <br/>
-　　It takes a loss before you found it <br/>
-　　And it takes a road to go nowhere <br/>
-　　It takes a toll to make you care <br/>
-　　It takes a hole to make a mountain
+It takes some silence to make sound <br/>
+It takes a loss before you found it <br/>
+And it takes a road to go nowhere <br/>
+It takes a toll to make you care <br/>
+It takes a hole to make a mountain
