@@ -16,4 +16,6 @@
 
 突然发现大陆的院线竟是如此可怜，放了这么多电影，也只有Pixar算得上是经典了。而我们的人民群众总是把Pixar的作品当作《喜洋洋》类的低龄动画片，上座率之低有些出乎意料。连《大内密探零零狗》这样的片子都能过亿，而Pixar在大陆却从来都在几千万徘徊，大陆电影观众的兴趣我实在不敢恭维。不过每年夏天都能Pixar的陪伴，真是让人充满期待，高考之前，我恐怕再没有时间再去欣赏一部电影，我企盼着明年高考完后，Pixar再次带给我那份生命里久违的感动。
 
+<iframe src="http://www.bilibili.com/html/html5player.html?aid=13019042&cid=21377247" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 
