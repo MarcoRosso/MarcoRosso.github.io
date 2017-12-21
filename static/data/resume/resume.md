@@ -1,8 +1,9 @@
 # Heng Zhang
+heng.zhang@postgrad.manchester.ac.uk
 
 >### A Ph.D. Candidate in Computer Science
 >[University Profile](https://www.research.manchester.ac.uk/portal/en/researchers/heng-zhang(c19de749-ca1d-4318-bca5-ad083a42daf8).html)<br/>
->heng.zhang@postgrad.manchester.ac.uk
+>[ResearcGate](https://www.researchgate.net/profile/Heng_Zhang108)
 
 >###A Fan of Video Recording and Editing
 >[Youtube](https://www.youtube.com/channel/UC4YxkkDp1m8zmOCpJDHx6tg)<br/>
