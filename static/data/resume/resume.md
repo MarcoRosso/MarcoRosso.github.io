@@ -1,33 +1,33 @@
-# Heng Zhang
+# 张恒 Heng Zhang
 heng.zhang@postgrad.manchester.ac.uk
 
->### A Ph.D. Candidate in Human–computer Interaction
->[University Profile](https://www.research.manchester.ac.uk/portal/en/researchers/heng-zhang(c19de749-ca1d-4318-bca5-ad083a42daf8).html)<br/>
+>### 一名人机交互领域的博士生 A Ph.D. Candidate in Human–computer Interaction
+>[学校档案 University Profile](https://www.research.manchester.ac.uk/portal/en/researchers/heng-zhang(c19de749-ca1d-4318-bca5-ad083a42daf8).html)<br/>
 >[ResearchGate](https://www.researchgate.net/profile/Heng_Zhang108)
 
->###A Fan of Video Recording and Editing
+>### 一位视频录制与剪辑爱好者 A Fan of Video Recording and Editing
 >[Youtube](https://www.youtube.com/channel/UC4YxkkDp1m8zmOCpJDHx6tg)<br/>
->[Bilibili](https://space.bilibili.com/31791228/)
+>[哔哩哔哩](https://space.bilibili.com/31791228/)
 
->###An Amateur Photographer
+>### 一个业余摄影师 An Amateur Photographer
 >[Flickr](https://www.flickr.com/people/procorosso/)<br/>
->[Tuchong](https://tuchong.com/1354065/) [Douban](https://www.douban.com/people/Proco/photos)
+>[图虫](https://tuchong.com/1354065/) [豆瓣（旧）](https://www.douban.com/people/Proco/photos)
 
 
-## Education
-####University of Manchester (Sept. 2017 - Present)
+## 教育经历 Education
+####曼彻斯特大学 University of Manchester (Sept. 2017 - Present)
 >#####Ph.D. Candidate in School of Computer Science
 >- Supervised by Dr. Simon Haper and Dr. Bijan Parsia
 >- Member of Interaction Analysis and Modelling (IAM) Lab
 >- Research topic "Smart Measures of Social Isolation of Parkinson’s Disease"
 
-####University of Manchester (Sept. 2015 - Nov. 2016)
+####曼彻斯特大学 University of Manchester (Sept. 2015 - Nov. 2016)
 >#####Master of Science in Advanced Computer Science
 >- With Merit
 >- Specialized in Artificial Intelligence
 >- Courses include Machine Learning, Big Data, Text Mining, Computer Vision and Software Engineering
 
-####University of Electronic Science and Technology of China (Sept.2011- July 2015)
+####电子科技大学 University of Electronic Science and Technology of China (Sept.2011- July 2015)
 >#####Bachelor of Science in Electronic Information of Science and Technology
 
 ## Experience
