@@ -1,27 +1,25 @@
 # 张恒 Heng Zhang
 heng.zhang@postgrad.manchester.ac.uk
 
->###A Ph.D. Candidate in Human–computer Interaction<br/>一名人机交互领域的博士生
->[学校档案 University Profile](https://www.research.manchester.ac.uk/portal/en/researchers/heng-zhang(c19de749-ca1d-4318-bca5-ad083a42daf8).html)<br/>
+>###一名人机交互领域的博士生<br/>A Ph.D. Candidate in Human–computer Interaction
 >[ResearchGate](https://www.researchgate.net/profile/Heng_Zhang108)
+>[学校档案 University Profile](https://www.research.manchester.ac.uk/portal/en/researchers/heng-zhang(c19de749-ca1d-4318-bca5-ad083a42daf8).html)<br/>
 
->###A Fan of Video Recording and Editing
->###一位视频录制与剪辑爱好者
+>###一位视频录制与剪辑爱好者<br/>A Fan of Video Recording and Editing
 >[Youtube](https://www.youtube.com/channel/UC4YxkkDp1m8zmOCpJDHx6tg)<br/>
 >[哔哩哔哩](https://space.bilibili.com/31791228/)
 
->###An Amateur Photographer
->###一个业余摄影师
+>###一个业余摄影师<br/>An Amateur Photographer
 >[Flickr](https://www.flickr.com/people/procorosso/)<br/>
 >[图虫](https://tuchong.com/1354065/) [豆瓣（旧）](https://www.douban.com/people/Proco/photos)
 
 
 ## 教育经历 Education
-####曼彻斯特大学 University of Manchester (Sept. 2017 - Present)
->#####Ph.D. Candidate in School of Computer Science
->- Supervised by Dr. Simon Haper and Dr. Bijan Parsia
->- Member of Interaction Analysis and Modelling (IAM) Lab
->- Research topic "Smart Measures of Social Isolation of Parkinson’s Disease"
+####曼彻斯特大学(2017年9月至今)<br/>University of Manchester (Sept. 2017 - Present)
+>#####计算机学院博士在读<br/>Ph.D. Candidate in School of Computer Science
+>- 导师为Simon Harper博士与Bijan Parsia博士<br/>Supervised by Dr. Simon Haper and Dr. Bijan Parsia
+>- 交互分析与可视化实验室成员<br/>Member of Interaction Analysis and Modelling (IAM) Lab
+>- 研究方向：帕金森疾病造成的社会隔离的智能检测<br/>Research topic "Smart Measures of Social Isolation of Parkinson’s Disease"
 
 ####曼彻斯特大学 University of Manchester (Sept. 2015 - Nov. 2016)
 >#####Master of Science in Advanced Computer Science

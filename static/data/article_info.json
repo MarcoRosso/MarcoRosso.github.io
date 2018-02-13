@@ -3,19 +3,19 @@
         {
             "filename": "class/toy_story.md",
             "title": "十五年 幕落",
-            "type" : "Random",
+            "type" : "杂",
             "date": "2010-06-23"
         },
         {
             "filename": "class/inside_out.md",
             "title": "So Long BingBong",
-            "type" : "Random",
+            "type" : "杂",
             "date": "2015-10-5"
         },
         {
             "filename": "class/Barcelona.md",
             "title": "伊比利亚一瞥",
-            "type" : "Random",
+            "type" : "杂",
             "date": "2016-06-18"
         }
     ]
