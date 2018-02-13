@@ -27,7 +27,7 @@ heng.zhang@postgrad.manchester.ac.uk
 >- 人工智能方向<br/>Specialized in Artificial Intelligence
 >- 课程包括机器学习，大数据，文本挖掘，计算机视觉和软件工程<br/>Courses include Machine Learning, Big Data, Text Mining, Computer Vision and Software Engineering
 
-####电子科技大学（2011年9月至2015年7月）University of Electronic Science and Technology of China (Sept.2011- July 2015)
+####电子科技大学（2011年9月至2015年7月）<br/>University of Electronic Science and Technology of China (Sept.2011- July 2015)
 >#####电子信息科学与技术专业学士<br/>Bachelor of Science in Electronic Information of Science and Technology
 
 ## 工作经历 Experience
@@ -36,7 +36,7 @@ heng.zhang@postgrad.manchester.ac.uk
 >- 隶属通信技术研究所<br/>Communication Technology Research Institute
 >- 从事开放移动联盟设备管理协议的研发<br/>Device Management Protocol of Open Mobile Alliance Implementation
 
-#### 电子科技大学科园软件公司（2014年7月至2015年2月）UESTC Keyuan Corporation (July 2014 - Feb. 2015)
+#### 电子科技大学科园软件公司（2014年7月至2015年2月）<br/>UESTC Keyuan Corporation (July 2014 - Feb. 2015)
 >- 实习生<br/>Intern
 >- 增长了Java与Android编程经验<br/>Practiced the skill of programming in Java and Android
 >- 完成了智能家居系统Android客户端的界面与本地控制功能的开发<br/>Build the user interface and local control part of the Android client of smart home control system
@@ -55,7 +55,7 @@ heng.zhang@postgrad.manchester.ac.uk
 #### Android紧急报警系统<br/>Emergency Alert System based on Android
 >- 2014年5月至2015年5月<br/>May 2014 - May 2015
 >- 电子科技大学创新基金项目<br/>UESTC’s Innovation Fund Project
->- 利用Android手机加速度，温度，气压等一系列传感数据来检测用户周围的环境状况，并判断用户是否遇到了危险，若遇到了紧急情况软件将会第一时间将用户的位置通过微博，短信发送出去<br/>Implmented the basic sensor on the Android cellphone to detect the environment around the user such as temperature, altitude and acceleration. Also calculated the data from sensor to determine if the user met any emergency situation such as fire, drop or crash then send the user’s location by message immediately.
+>- 利用Android手机加速度，温度，气压等一系列传感数据来检测用户周围的环境状况，并判断用户是否遇到了危险，若遇到了紧急情况软件将会第一时间将用户的位置通过微博，短信发送出去。<br/>Implmented the basic sensor on the Android cellphone to detect the environment around the user such as temperature, altitude and acceleration. Also calculated the data from sensor to determine if the user met any emergency situation such as fire, drop or crash then send the user’s location by message immediately.
 
 
 
