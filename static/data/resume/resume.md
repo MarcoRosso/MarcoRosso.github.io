@@ -1,7 +1,7 @@
 # 张恒 Heng Zhang
 heng.zhang@postgrad.manchester.ac.uk
 
->###A Ph.D. Candidate in Human–computer Interaction
+>###A Ph.D. Candidate in Human–computer Interaction<br/>
 >###一名人机交互领域的博士生
 >[学校档案 University Profile](https://www.research.manchester.ac.uk/portal/en/researchers/heng-zhang(c19de749-ca1d-4318-bca5-ad083a42daf8).html)<br/>
 >[ResearchGate](https://www.researchgate.net/profile/Heng_Zhang108)
