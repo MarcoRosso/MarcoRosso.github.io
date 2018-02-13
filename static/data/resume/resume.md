@@ -1,15 +1,18 @@
 # 张恒 Heng Zhang
 heng.zhang@postgrad.manchester.ac.uk
 
->### 一名人机交互领域的博士生 A Ph.D. Candidate in Human–computer Interaction
+>###A Ph.D. Candidate in Human–computer Interaction
+>###一名人机交互领域的博士生
 >[学校档案 University Profile](https://www.research.manchester.ac.uk/portal/en/researchers/heng-zhang(c19de749-ca1d-4318-bca5-ad083a42daf8).html)<br/>
 >[ResearchGate](https://www.researchgate.net/profile/Heng_Zhang108)
 
->### 一位视频录制与剪辑爱好者 A Fan of Video Recording and Editing
+>###A Fan of Video Recording and Editing
+>###一位视频录制与剪辑爱好者
 >[Youtube](https://www.youtube.com/channel/UC4YxkkDp1m8zmOCpJDHx6tg)<br/>
 >[哔哩哔哩](https://space.bilibili.com/31791228/)
 
->### 一个业余摄影师 An Amateur Photographer
+>###An Amateur Photographer
+>###一个业余摄影师
 >[Flickr](https://www.flickr.com/people/procorosso/)<br/>
 >[图虫](https://tuchong.com/1354065/) [豆瓣（旧）](https://www.douban.com/people/Proco/photos)
 
