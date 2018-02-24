@@ -16,7 +16,7 @@ heng.zhang@postgrad.manchester.ac.uk
 
 ## 教育经历 Education
 ####曼彻斯特大学（2017年9月至今）<br/>University of Manchester (Sept. 2017 - Present)
->#####计算机专业博士在读<br/>Ph.D. Candidate in omputer Science
+>#####计算机专业博士在读<br/>Ph.D. Candidate in computer Science
 >- 导师为Simon Harper博士与Bijan Parsia博士<br/>Supervised by Dr. Simon Haper and Dr. Bijan Parsia
 >- 交互分析与建模实验室成员<br/>Member of Interaction Analysis and Modelling (IAM) Lab
 >- 研究方向：帕金森疾病造成的社会隔离的智能检测<br/>Research topic "Smart Measures of Social Isolation of Parkinson’s Disease"
