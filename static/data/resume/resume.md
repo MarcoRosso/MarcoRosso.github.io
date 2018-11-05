@@ -1,5 +1,5 @@
 # 张恒 Heng Zhang
-heng.zhang@postgrad.manchester.ac.uk
+heng.zhang@manchester.ac.uk
 
 >###一名人机交互领域的博士生<br/>A Ph.D. Candidate in Human–computer Interaction
 >[学校档案 University Profile](https://www.research.manchester.ac.uk/portal/en/researchers/heng-zhang(c19de749-ca1d-4318-bca5-ad083a42daf8).html)<br/>
@@ -27,7 +27,7 @@ heng.zhang@postgrad.manchester.ac.uk
 >- 人工智能方向<br/>Specialized in Artificial Intelligence
 >- 课程包括机器学习，大数据，文本挖掘，计算机视觉和软件工程<br/>Courses include Machine Learning, Big Data, Text Mining, Computer Vision and Software Engineering
 
-####电子科技大学（2011年9月至2015年7月）<br/>University of Electronic Science and Technology of China (Sept.2011- July 2015)
+####电子科技大学（2011年9月至2015年7月）<br/>University of Electronic Science and Technology of China (Sept.2011 - July 2015)
 >#####电子信息科学与技术专业学士<br/>Bachelor of Science in Electronic Information of Science and Technology
 
 ## 工作经历 Experience
