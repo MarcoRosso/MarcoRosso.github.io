@@ -3,7 +3,7 @@ heng.zhang@postgrad.manchester.ac.uk
 
 >###一名人机交互领域的博士生<br/>A Ph.D. Candidate in Human–computer Interaction
 >[学校档案 University Profile](https://www.research.manchester.ac.uk/portal/en/researchers/heng-zhang(c19de749-ca1d-4318-bca5-ad083a42daf8).html)<br/>
->[ResearchGate](https://www.researchgate.net/profile/Heng_Zhang108)
+>[研究之门 ResearchGate](https://www.researchgate.net/profile/Heng_Zhang108)
 
 >###一位视频录制与剪辑爱好者<br/>A Fan of Video Recording and Editing
 >[Youtube](https://www.youtube.com/channel/UC4YxkkDp1m8zmOCpJDHx6tg)<br/>
@@ -17,7 +17,7 @@ heng.zhang@postgrad.manchester.ac.uk
 ## 教育经历 Education
 ####曼彻斯特大学（2017年9月至今）<br/>University of Manchester (Sept. 2017 - Present)
 >#####计算机专业博士在读<br/>Ph.D. Candidate in computer Science
->- 导师为Simon Harper博士与Bijan Parsia博士<br/>Supervised by Dr. Simon Haper and Dr. Bijan Parsia
+>- 导师为Simon Harper教授与Bijan Parsia博士<br/>Supervised by Prof. Simon Harper and Dr. Bijan Parsia
 >- 交互分析与建模实验室成员<br/>Member of Interaction Analysis and Modelling (IAM) Lab
 >- 研究方向：帕金森疾病造成的社会隔离的智能检测<br/>Research topic "Smart Measures of Social Isolation of Parkinson’s Disease"
 
