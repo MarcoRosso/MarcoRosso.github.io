@@ -14,6 +14,9 @@ heng.zhang@manchester.ac.uk
 >[图虫](https://tuchong.com/1354065/) [豆瓣（旧）](https://www.douban.com/people/Proco/photos)
 
 
+## 学术论文 Publication
+>- Zhang, H., Gashi, S., Kimm, H., Hanci, E., & Matthews, O. (2018, October).[Moodbook: An Application for Continuous Monitoring of Social Media Usage and Mood.](https://dl.acm.org/citation.cfm?id=3274760) In *Proceedings of the 2018 ACM International Joint Conference and 2018 International Symposium on Pervasive and Ubiquitous Computing and Wearable Computers* (pp. 1150-1155). ACM.
+
 ## 教育经历 Education
 ####曼彻斯特大学（2017年9月至今）<br/>University of Manchester (Sept. 2017 - Present)
 >#####计算机专业博士在读<br/>Ph.D. Candidate in computer Science
