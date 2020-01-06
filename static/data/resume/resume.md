@@ -10,7 +10,7 @@ heng.zhang@manchester.ac.uk
 >[哔哩哔哩](https://space.bilibili.com/31791228/)
 
 >###一个业余摄影师<br/>An Amateur Photographer
->[Flickr](https://www.flickr.com/people/procorosso/) [500px](https://500px.me/marcorosso)<br/>
+>[Flickr](https://www.flickr.com/people/procorosso/)<br/>
 >[图虫（旧）](https://tuchong.com/1354065/) [豆瓣（旧）](https://www.douban.com/people/Proco/photos)
 
 
