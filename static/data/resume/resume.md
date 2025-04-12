@@ -16,8 +16,8 @@ zhangheng0052@gmail.com
 ## 工作经历 Experience
 #### 华为终端有限公司 （2022年10月至今）Huawei Device Co., Ltd. (Since Oct. 2022)
 >- 2022年10月至2024年5月 智能穿戴与运动健康PDU算法技术部<br/>October 2022 to May 2024, Algorithm Technology Department, Smart Wearables and Sports Health PDU
->- 从事手环手表产品中的心血管健康算法（脉搏波心律失常分析，脉搏波优化与交付，运动心率大数据异常检测，PPG信号降噪与增强工作<br/>Cardiovascular health algorithm optimization and delivery, abnormality detection in large-scale exercise heart rate data, and PPG signal denoising and enhancement.
->- 2024年6月至今 OpenHarmony部综合传感平台<br/>Since June 2024, Multi-sensor Data Platform, OpenHarmony Department
+>- 从事手环手表产品中的心血管健康算法（脉搏波心律失常分析，ECG心律失常分析，脉搏波传导速度）优化与交付，运动心率大数据异常检测，PPG信号降噪与增强工作<br/>Optimization and delivery of cardiovascular health algorithms in wristband and smartwatch products, including pulse wave arrhythmia analysis, ECG arrhythmia analysis, and pulse wave velocity measurement, as well as large-scale abnormality detection in exercise heart rate data and PPG signal denoising and enhancement.
+>- 2024年6月至今 OpenHarmony部综合传感信息平台<br/>Since June 2024, Multi-sensor Data Platform, OpenHarmony Department
 >- 从事鸿蒙操作系统中用户状态感知算法的设计与交付，包括3D视角感知，多设备注意力感知，吹气互动感知，手机防误触算法等<br/>Design and delivery of user state sensing algorithms in HarmonyOS, including 3D perspective perception, multi-device attention sensing, blow interaction detection, and smartphone mistouch prevention algorithms.
 
 
