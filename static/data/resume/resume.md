@@ -16,9 +16,9 @@ zhangheng0052@gmail.com
 ## 工作经历 Experience
 #### 华为终端有限公司 （2022年10月至今）Huawei Device Co., Ltd. (Since Oct. 2022)
 >- 2022年10月至2024年5月 智能穿戴与运动健康PDU算法技术部<br/>October 2022 to May 2024, Algorithm Technology Department, Smart Wearables and Sports Health PDU
->- 从事心血管健康算法优化与交付，运动心率大数据异常检测，PPG信号降噪与增强工作<br/>Cardiovascular health algorithm optimization and delivery, abnormality detection in arge-scale exercise heart rate data, and PPG signal denoising and enhancement.
->- 2024年6月至今 OpenHarmony部综合传感平台<br/>Since June 2024, Multi-seneor Data Platform, OpenHarmony Department
->- 从事用户状态感知算法的设计与交付，包括3D视角感知，多设备注意力感知，吹气互动感知，手机防误触算法等<br/>Design and delivery of user state sensing algorithms, including 3D perspective perception, multi-device attention sensing, blow interaction detection, and smartphone mistouch prevention algorithms.
+>- 从事手环手表产品中的心血管健康算法（脉搏波心律失常分析，脉搏波优化与交付，运动心率大数据异常检测，PPG信号降噪与增强工作<br/>Cardiovascular health algorithm optimization and delivery, abnormality detection in large-scale exercise heart rate data, and PPG signal denoising and enhancement.
+>- 2024年6月至今 OpenHarmony部综合传感平台<br/>Since June 2024, Multi-sensor Data Platform, OpenHarmony Department
+>- 从事鸿蒙操作系统中用户状态感知算法的设计与交付，包括3D视角感知，多设备注意力感知，吹气互动感知，手机防误触算法等<br/>Design and delivery of user state sensing algorithms in HarmonyOS, including 3D perspective perception, multi-device attention sensing, blow interaction detection, and smartphone mistouch prevention algorithms.
 
 
 #### TCL集团工业研究院西安研发中心（2016年11月至2017年9月）<br/>TCL Corporation, Xi'an R&D Centre (Nov. 2016 - Sept. 2017)
@@ -66,12 +66,12 @@ zhangheng0052@gmail.com
 >- 硕士论文项目<br/>Master Dissertation
 >- 运用各种数据处理方法对从帕金森病人携带的手机中获得的地理信息与活动情况进行分析，通过机器学习方法构建病人的活动模式，得出病人的活动情况并与客观的帕金森病人量表进行相关性研究。<br/>Analyzed the geographic information and activities obtained from the mobile phone carried by Parkinson's patients by using various data processing methods, constructed the activity patterns of the patients through the machine learning method, obtained the activity status of the patients and applied the correlation study with the objective Parkinson's scales.
 
-#### Android心电图监测与医患管理系统<br/>ECG Monitor and Patient Doctor Management System based on Android
+#### Android心电图监测与医患管理系统<br/>ECG Monitor and Patient-Doctor Management System based on Android
 >- 2015年3月至2015年7月<br/>Mar. 2015 - July 2015
 >- 本科生毕业设计项目<br/>Bachelor Graduation
->- 通过蓝牙接收病人的可穿戴心电检测设备发来的心电电压数据并在Android手机上实时绘制心电图，适配心率计算算法实时计算病人率，并利用Baas服务实现心电数据从病人端到医护端的实时传输与医护人员对病人信息的管理。<br/>Utilized the Bluetooth to receive the data form ECG monitor on patients’ bodies, drew ECG graph and calculated the heart rate of patient to help doctors to diagnose. Also implmented Baas service to store patient’s ECG data and transferred the ECG data instantly from patient to doctor, so doctor can manage basic information of patients.
+>- 通过蓝牙接收病人的可穿戴心电检测设备发来的心电电压数据并在Android手机上实时绘制心电图，适配心率计算算法实时计算病人率，并利用Baas服务实现心电数据从病人端到医护端的实时传输与医护人员对病人信息的管理。<br/>Utilized the Bluetooth to receive the data from ECG monitor on patients’ bodies, drew ECG graph and calculated the heart rate of patient to help doctors to diagnose. Also, implemented Baas service to store patients’ ECG data and transfer the ECG data instantly from patient to doctor, so doctors can manage basic information of patients.
 
 #### Android紧急报警系统<br/>Emergency Alert System based on Android
 >- 2014年5月至2015年5月<br/>May 2014 - May 2015
 >- 电子科技大学创新基金项目<br/>UESTC’s Innovation Fund Project
->- 利用Android手机加速度，温度，气压等一系列传感数据来检测用户周围的环境状况，并判断用户是否遇到了危险，若遇到了紧急情况软件将会第一时间将用户的位置通过微博，短信发送出去。<br/>Implmented the basic sensor on the Android cellphone to detect the environment around the user such as temperature, altitude and acceleration. Also calculated the data from sensor to determine if the user met any emergency situation such as fire, drop or crash then send the user’s location by message immediately.
+>- 利用Android手机加速度，温度，气压等一系列传感数据来检测用户周围的环境状况，并判断用户是否遇到了危险，若遇到了紧急情况软件将会第一时间将用户的位置通过微博，短信发送出去。<br/>Implmented the basic sensor on the Android cellphone to detect the environment around the user such as temperature, altitude and acceleration. Also calculated the data from sensors to determine if the user met any emergency situation such as fire, drop or crash then send the user’s location by message immediately.
