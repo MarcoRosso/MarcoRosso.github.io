@@ -18,7 +18,7 @@ zhangheng0052@gmail.com
 >- 2022年10月至2024年5月 智能穿戴与运动健康PDU算法技术部<br/>October 2022 to May 2024, Algorithm Technology Department, Smart Wearables and Sports Health PDU
 >- 从事心血管健康算法优化与交付，运动心率大数据异常检测，PPG信号降噪与增强工作<br/>Cardiovascular health algorithm optimization and delivery, abnormality detection in arge-scale exercise heart rate data, and PPG signal denoising and enhancement.
 >- 2024年6月至今 OpenHarmony部综合传感平台<br/>Since June 2024, Multi-seneor Data Platform, OpenHarmony Department
->- 从事用户状态感知算法的设计与交付，包括3D视角感知，多设备注意力感知，吹气互动感知，手机防误触算法等<br/>esign and delivery of user state sensing algorithms, including 3D perspective perception, multi-device attention sensing, blow interaction detection, and smartphone mistouch prevention algorithms.
+>- 从事用户状态感知算法的设计与交付，包括3D视角感知，多设备注意力感知，吹气互动感知，手机防误触算法等<br/>Design and delivery of user state sensing algorithms, including 3D perspective perception, multi-device attention sensing, blow interaction detection, and smartphone mistouch prevention algorithms.
 
 
 #### TCL集团工业研究院西安研发中心（2016年11月至2017年9月）<br/>TCL Corporation, Xi'an R&D Centre (Nov. 2016 - Sept. 2017)
@@ -32,11 +32,11 @@ zhangheng0052@gmail.com
 >- 完成了智能家居系统Android客户端的界面与本地控制功能的开发<br/>Build the user interface and local control part of the Android client of smart home control system
 
 ## 学术论文 Publication
->-Zhang, H., Parsia, B., Poliakoff, E., & Harper, S. (2024). [Tracking social behaviour with smartphones in people with Parkinson's: a longitudinal study.](https://www.tandfonline.com/doi/abs/10.1080/0144929X.2023.2243521) Behaviour & Information Technology, 43(11), 2323-2342.
+>- Zhang, H., Parsia, B., Poliakoff, E., & Harper, S. (2024). [Tracking social behaviour with smartphones in people with Parkinson's: a longitudinal study.](https://www.tandfonline.com/doi/abs/10.1080/0144929X.2023.2243521) Behaviour & Information Technology, 43(11), 2323-2342.
 
 >- Zhang, H., Ibrahim, A., Parsia, B., Poliakoff, E., & Harper, S. (2023). [Passive social sensing with smartphones: a systematic review.](https://link.springer.com/article/10.1007/s00607-022-01112-2) Computing, 105(1), 29-51.
 
->- Ibrahim, A., Zhang, H., Clinch, S., & Harper, S. (2021). [From GPS to semantic data: how and why—a framework for enriching smartphone trajectories.] (https://link.springer.com/article/10.1007/s00607-021-00993-z) Computing, 103(12), 2763-2787.
+>- Ibrahim, A., Zhang, H., Clinch, S., & Harper, S. (2021). [From GPS to semantic data: how and why—a framework for enriching smartphone trajectories.](https://link.springer.com/article/10.1007/s00607-021-00993-z) Computing, 103(12), 2763-2787.
 
 >- Zhang, H., Poliakoff, E., Parsia, B., & Harper, S. (2021). [Using smartphone data to infer social behaviour in Parkinson’s disease: proof of principle and the impact of COVID-19](https://manchester.primo.exlibrisgroup.com/discovery/openurl?institution=44MAN_INST&vid=44MAN_INST:MU_NUI&volume=36&date=2021&aulast=Zhang&issn=0885-3185&spage=S447&auinit=H&title=Movement%20disorders%20%2F&atitle=Using%20smartphone%20data%20to%20infer%20social%20behaviour%20in%20Parkinson’s%20disease:%20proof%20of%20principle%20and%20the%20impact%20of%20COVID-19:%201014&sid=google) Movement Disorders, 36, S447.
 
@@ -45,7 +45,7 @@ zhangheng0052@gmail.com
 >- Zhang, H., Gashi, S., Kimm, H., Hanci, E., & Matthews, O. (2018, October). [Moodbook: An Application for Continuous Monitoring of Social Media Usage and Mood.](https://dl.acm.org/citation.cfm?id=3274760) In *Proceedings of the 2018 ACM International Joint Conference and 2018 International Symposium on Pervasive and Ubiquitous Computing and Wearable Computers* (pp. 1150-1155). ACM.
 
 ## 教育经历 Education
-####曼彻斯特大学（2017年9月至2022年5月）<br/>University of Manchester (Sept. 2017 - Sept. 2022)
+####曼彻斯特大学（2017年9月至2022年9月）<br/>University of Manchester (Sept. 2017 - Sept. 2022)
 >#####计算机专业博士<br/>Ph.D. in computer Science
 >- 导师为Simon Harper教授与Bijan Parsia博士<br/>Supervised by Prof. Simon Harper and Dr. Bijan Parsia
 >- 交互分析与建模实验室成员<br/>Member of Interaction Analysis and Modelling (IAM) Lab
