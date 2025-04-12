@@ -14,7 +14,7 @@ zhangheng0052@gmail.com
 >[图虫](https://tuchong.com/1354065/) [豆瓣（旧）](https://www.douban.com/people/Proco/photos)
 
 ## 工作经历 Experience
-#### 华为终端有限公司 （2022年10月至今）Huawei Device Co., Ltd.
+#### 华为终端有限公司 （2022年10月至今）Huawei Device Co., Ltd. (Since Oct. 2022)
 >- 2022年10月至2024年5月 智能穿戴与运动健康PDU算法技术部<br/>October 2022 to May 2024, Algorithm Technology Department, Smart Wearables and Sports Health PDU
 >- 从事心血管健康算法优化与交付，运动心率大数据异常检测，PPG信号降噪与增强工作<br/>Cardiovascular health algorithm optimization and delivery, abnormality detection in arge-scale exercise heart rate data, and PPG signal denoising and enhancement.
 >- 2024年6月至今 OpenHarmony部综合传感平台<br/>Since June 2024, Multi-seneor Data Platform, OpenHarmony Department
